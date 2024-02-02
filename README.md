@@ -24,6 +24,6 @@ This repository serves as a simple sample for building a web application using N
     npm install
 
 ### Running the Application
-    Start the server 
-       npm index.js
+   ```Start Server
+   npm index.js
     
