@@ -23,6 +23,7 @@ This repository serves as a simple sample for building a web application using N
 3.Install dependencies.
     npm install
 
-###Running the Application
-    Start the server : npm index.js
+### Running the Application
+    Start the server 
+       npm index.js
     
